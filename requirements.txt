@@ -1,0 +1,5 @@
+# MCP Agent Mesh Dependencies
+# Single-file multi-agent coordinator using Google Gemini & SQLAlchemy
+
+google-genai>=0.1.1
+sqlalchemy>=2.0.0
